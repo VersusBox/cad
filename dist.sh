@@ -8,6 +8,11 @@ mkdir dist
 
 cp *.FCStd dist
 cp *.stl dist
+mkdir dist/accessories
+cp accessories/*.FCStd dist/accessories
+cp accessories/*.stl dist/accessories
+mkdir dist/placeholders
+cp placeholders/*.FCStd dist/placeholders
 cp *.pdf dist
 cp *.xhtml dist
 cp ChangeLog dist
