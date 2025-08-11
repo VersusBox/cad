@@ -1,4 +1,6 @@
-# VersusBox arcade cabinet CAD files
+# VersusBox arcade cabinet CAD files
+
+[![Presentation video](https://img.youtube.com/vi/Y8uKWTAviu0?si=Od2f_VMk5Y2jI9Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=Y8uKWTAviu0?si=Od2f_VMk5Y2jI9Y)
 
 ![Right side](pictures/right_side.webp)
 ![Left side](pictures/left_side.webp)
