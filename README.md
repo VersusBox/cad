@@ -49,7 +49,7 @@ and placeholders for internal parts (placeholders folder):
 
 - **LM240WU2-SLA1_display.FCStd**: LM240WU2-SLA1 LCD display.
 
-![Assembly in progressPC](assembly.webp)
+![Assembly in progress](pictures/assembly.webp)
 
 ## Hardware choices
 
@@ -67,14 +67,14 @@ It was used by Apple iMacs between 2007 and 2009.
 I have connected it to PC HDMI using an HDMI to LVDS convertion board.
 It also requires a dedicated power supply board.
 
-![Display, HDMI to LVDS converter board and dedicated power supply](display_lvds_psu.webp)
+![Display, HDMI to LVDS converter board and dedicated power supply](pictures/display_lvds_psu.webp)
 
 ### System
 
 A regular PC running Debian and EmulationStation is used.
 It uses an Nvidia graphics card.
 
-![PC](pc.webp)
+![PC](pictures/pc.webp)
 
 ### Audio
 
@@ -90,7 +90,7 @@ Print them on matte monomeric vinyl, with UV lamination.
 The marquee is not backlit, I chose to do something different with an
 overflowing rounded-borders plate.
 
-![Marquee](marquee.webp)
+![Marquee](pictures/marquee.webp)
 
 ### Screen protection glass
 
